@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Hello, my name is now Joe Montana");
 
+        System.out.println("Hello my name is Pedro");
+
     }
 }
